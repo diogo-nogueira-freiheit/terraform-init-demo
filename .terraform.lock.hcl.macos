@@ -3,7 +3,7 @@
 
 provider "registry.terraform.io/datadog/datadog" {
   version     = "3.69.0"
-  constraints = "~> 3.0"
+  constraints = "3.69.0"
   hashes = [
     "h1:jJWA1QkQUrwmEAKm+WKxjLg7IPK8JNvRIYB9U8BRF4w=",
     "zh:09f3bc40c7e953057e5a36aa874e01adcc47a42057383d6fe78d9e986c9faf88",
@@ -25,7 +25,7 @@ provider "registry.terraform.io/datadog/datadog" {
 
 provider "registry.terraform.io/gavinbunney/kubectl" {
   version     = "1.19.0"
-  constraints = "~> 1.19.0"
+  constraints = "1.19.0"
   hashes = [
     "h1:quymfa/OKEfWI5JXFEwGbUY2aAy0vet3rA9JWJam+3k=",
     "zh:1dec8766336ac5b00b3d8f62e3fff6390f5f60699c9299920fc9861a76f00c71",
@@ -48,7 +48,7 @@ provider "registry.terraform.io/gavinbunney/kubectl" {
 
 provider "registry.terraform.io/hashicorp/azurerm" {
   version     = "4.38.1"
-  constraints = "~> 4.2"
+  constraints = "4.38.1"
   hashes = [
     "h1:MV45L+OKw7+UrxI9SczAllqrAZjQomKKJbhSwIlkmYA=",
     "zh:2d4085678cad85782b0097d2f1d03d96862deb3684b14a1125bd46b36091fd30",
@@ -68,7 +68,7 @@ provider "registry.terraform.io/hashicorp/azurerm" {
 
 provider "registry.terraform.io/hashicorp/kubernetes" {
   version     = "2.38.0"
-  constraints = "~> 2.0"
+  constraints = "2.38.0"
   hashes = [
     "h1:soK8Lt0SZ6dB+HsypFRDzuX/npqlMU6M0fvyaR1yW0k=",
     "zh:0af928d776eb269b192dc0ea0f8a3f0f5ec117224cd644bdacdc682300f84ba0",
@@ -88,7 +88,7 @@ provider "registry.terraform.io/hashicorp/kubernetes" {
 
 provider "registry.terraform.io/hashicorp/local" {
   version     = "2.5.3"
-  constraints = "~> 2.4"
+  constraints = "2.5.3"
   hashes = [
     "h1:MCzg+hs1/ZQ32u56VzJMWP9ONRQPAAqAjuHuzbyshvI=",
     "zh:284d4b5b572eacd456e605e94372f740f6de27b71b4e1fd49b63745d8ecd4927",
@@ -108,7 +108,7 @@ provider "registry.terraform.io/hashicorp/local" {
 
 provider "registry.terraform.io/hashicorp/vault" {
   version     = "4.3.0"
-  constraints = "~> 4.3.0"
+  constraints = "4.3.0"
   hashes = [
     "h1:CIdywXxWmkjL/0Lpi8SAiYgQjQRmZwUxVmoErvX/wcM=",
     "zh:0b1ff3dcc17ac15da27473463dc273754f6828db71d15804f23eadd6c8a78481",
@@ -151,7 +151,7 @@ provider "registry.terraform.io/solaceproducts/solacebroker" {
 
 provider "registry.terraform.io/stackitcloud/stackit" {
   version     = "0.54.0"
-  constraints = "~> 0.54.0"
+  constraints = "0.54.0"
   hashes = [
     "h1:BUvQBZsEKzW/n8Kr7DBowCMBazViGb5Yi2g3HZBZv74=",
     "zh:07408dfe367c654692be22fcad86623ea1f8d96df7f6e1a68a74d58b65f40afa",
