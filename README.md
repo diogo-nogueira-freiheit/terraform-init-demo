@@ -13,6 +13,7 @@ The provided lockfiles are:
 * `.terraform.lock.hcl.linux` - the result of running `terraform init` on a `linux_amd64` machine.
 * `.terraform.lock.hcl.macos` - the result of running `terraform init` on a `darwin_arm64` machine.
 * `.terraform.lock.hcl.missing` - a copy of the `.terraform.lock.hcl.linux` with the kubectl provider lock removed.
+* `.terraform.lock.hcl.extra` - a copy of the `.terraform.lock.hcl.linux` with the hashicorp/random provider lock added.
 
 Test out:
 * Running `terraform init` using all of these files on your machine.
